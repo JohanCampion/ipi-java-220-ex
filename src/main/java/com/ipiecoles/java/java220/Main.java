@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] ars){
         Employe employe = new Employe();
 
-        System.out.println(employe.toString());
+        System.out.println(employe.toString()+"test");
 
     }
 }
